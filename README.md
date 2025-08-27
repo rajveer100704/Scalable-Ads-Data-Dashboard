@@ -16,7 +16,7 @@
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/<your-username>/ads-dashboard.git
+git clone https://github.com/rajveer100704/Scalable-Ads-Data-Dashboard
 cd ads-dashboard
 ```
 
