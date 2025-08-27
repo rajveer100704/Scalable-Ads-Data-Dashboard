@@ -39,11 +39,6 @@ Open 👉 `http://localhost:5173`
 
 ---
 
-## Demo (Mock Data)
-![Demo Screenshot](demo/demo.gif)
-
----
-
 ## Future Improvements
 - Add authentication (OAuth2 for Ads API)
 - Advanced filters & breakdowns
